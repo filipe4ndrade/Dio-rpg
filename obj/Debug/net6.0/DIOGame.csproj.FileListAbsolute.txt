@@ -1,0 +1,15 @@
+C:\Users\Filipe\Documents\Github\dio-game\DIOGame\bin\Debug\net6.0\DIOGame.exe
+C:\Users\Filipe\Documents\Github\dio-game\DIOGame\bin\Debug\net6.0\DIOGame.deps.json
+C:\Users\Filipe\Documents\Github\dio-game\DIOGame\bin\Debug\net6.0\DIOGame.runtimeconfig.json
+C:\Users\Filipe\Documents\Github\dio-game\DIOGame\bin\Debug\net6.0\DIOGame.dll
+C:\Users\Filipe\Documents\Github\dio-game\DIOGame\bin\Debug\net6.0\ref\DIOGame.dll
+C:\Users\Filipe\Documents\Github\dio-game\DIOGame\bin\Debug\net6.0\DIOGame.pdb
+C:\Users\Filipe\Documents\Github\dio-game\DIOGame\obj\Debug\net6.0\DIOGame.csproj.AssemblyReference.cache
+C:\Users\Filipe\Documents\Github\dio-game\DIOGame\obj\Debug\net6.0\DIOGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Filipe\Documents\Github\dio-game\DIOGame\obj\Debug\net6.0\DIOGame.AssemblyInfoInputs.cache
+C:\Users\Filipe\Documents\Github\dio-game\DIOGame\obj\Debug\net6.0\DIOGame.AssemblyInfo.cs
+C:\Users\Filipe\Documents\Github\dio-game\DIOGame\obj\Debug\net6.0\DIOGame.csproj.CoreCompileInputs.cache
+C:\Users\Filipe\Documents\Github\dio-game\DIOGame\obj\Debug\net6.0\DIOGame.dll
+C:\Users\Filipe\Documents\Github\dio-game\DIOGame\obj\Debug\net6.0\ref\DIOGame.dll
+C:\Users\Filipe\Documents\Github\dio-game\DIOGame\obj\Debug\net6.0\DIOGame.pdb
+C:\Users\Filipe\Documents\Github\dio-game\DIOGame\obj\Debug\net6.0\DIOGame.genruntimeconfig.cache
